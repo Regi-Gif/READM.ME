@@ -1,50 +1,36 @@
-# READM.ME
-READ.ME
 <div align="center">
 
-# 𝖱𝖾𝗀𝗂ane Lima
+# 𝖱𝖾𝗀𝗂 𝖦𝗂𝖿
 
-### white hat code
+### 𝘸𝘩𝘪𝘵𝘦 𝘩𝘢𝘵 𝘤𝘰𝘥𝘦
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&width=500&lines=Clean+Code.;Ethical+Mind.;Disciplined+Logic.;White+Hat+Developer." />
+🤍
 
-</div>
-
----
-
-## 🤍 About
-
-> Precision over noise.  
-> Logic over chaos.  
-> Discipline over motivation.  
-
-I build with clarity, security, and intention.
-
----
-
-## 🤍 Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,java" />
+𝖢𝗅𝖾𝖺𝗋 𝗆𝗂𝗇𝖽  
+𝖤𝗍𝗁𝗂𝖼𝖺𝗅 𝗂𝗇𝗍𝖾𝗇𝗍  
+𝖣𝗂𝗌𝖼𝗂𝗉𝗅𝗂𝗇𝖾𝖽 𝖾𝗑𝖾𝖼𝗎𝗍𝗂𝗈𝗇  
 
 <br><br>
 
-`Microsoft Excel`
+## 𝖲𝗄𝗂𝗅𝗅𝗌
 
-</div>
+𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍  
+𝖧𝖳𝖬𝖫5  
+𝖢𝖲𝖲3  
+𝖱𝖾𝖺𝖼𝗍  
+𝖡𝗈𝗈𝗍𝗌𝗍𝗋𝖺𝗉  
+𝖩𝖺𝗏𝖺  
+𝖬𝗂𝖼𝗋𝗈𝗌𝗈𝖿𝗍 𝖤𝗑𝖼𝖾𝗅  
 
----
+<br><br>
 
-## 🤍 Philosophy
+## 𝖯𝗁𝗂𝗅𝗈𝗌𝗈𝗉𝗁𝗒
 
 
----
+<br>
 
-<div align="center">
-
-### 𓂀 Silent work. Loud results.
+🤍 𝖲𝗂𝗅𝖾𝗇𝗍 𝗐𝗈𝗋𝗄. 𝖫𝗈𝗎𝖽 𝗋𝖾𝗌𝗎𝗅𝗍𝗌.
 
 </div>
