@@ -1,36 +1,45 @@
 <div align="center">
 
-# 𝖱𝖾𝗀𝗂 𝖦𝗂𝖿
+# Regi Gif
 
-### 𝘸𝘩𝘪𝘵𝘦 𝘩𝘢𝘵 𝘤𝘰𝘥𝘦
-
-<br>
-
-🤍
-
-𝖢𝗅𝖾𝖺𝗋 𝗆𝗂𝗇𝖽  
-𝖤𝗍𝗁𝗂𝖼𝖺𝗅 𝗂𝗇𝗍𝖾𝗇𝗍  
-𝖣𝗂𝗌𝖼𝗂𝗉𝗅𝗂𝗇𝖾𝖽 𝖾𝗑𝖾𝖼𝗎𝗍𝗂𝗈𝗇  
-
-<br><br>
-
-## 𝖲𝗄𝗂𝗅𝗅𝗌
-
-𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍  
-𝖧𝖳𝖬𝖫5  
-𝖢𝖲𝖲3  
-𝖱𝖾𝖺𝖼𝗍  
-𝖡𝗈𝗈𝗍𝗌𝗍𝗋𝖺𝗉  
-𝖩𝖺𝗏𝖺  
-𝖬𝗂𝖼𝗋𝗈𝗌𝗈𝖿𝗍 𝖤𝗑𝖼𝖾𝗅  
-
-<br><br>
-
-## 𝖯𝗁𝗂𝗅𝗈𝗌𝗈𝗉𝗁𝗒
-
+white hat code
 
 <br>
-
-🤍 𝖲𝗂𝗅𝖾𝗇𝗍 𝗐𝗈𝗋𝗄. 𝖫𝗈𝗎𝖽 𝗋𝖾𝗌𝗎𝗅𝗍𝗌.
 
 </div>
+
+---
+
+## About
+
+I value clarity, discipline and ethical execution.  
+Focused on building clean, secure and structured solutions.
+
+---
+
+## Skills
+
+- JavaScript  
+- HTML5  
+- CSS3  
+- React  
+- Bootstrap  
+- Java  
+- Microsoft Excel  
+
+---
+
+## Principles
+
+> Think clearly.  
+> Code ethically.  
+> Execute with precision.  
+
+---
+
+<div align="center">
+
+Silent work. Loud results.
+
+</div>
+
